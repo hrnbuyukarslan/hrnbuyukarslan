@@ -21,7 +21,7 @@ low-level engineering discipline with system-level thinking.
   - Antenna concepts, RF front-end design, and link analysis
 
 - 🔧 **Embedded Systems**
-  - STM32, ESP32, RISC-V based systems
+  - STM32, RISC-V based systems
   - Sensor integration, low-power designs
   - Bare-metal and RTOS-oriented development
 
@@ -45,7 +45,7 @@ I enjoy working at the intersection of:
 ## 🧰 Tech Stack
 
 ### Embedded & Hardware
-- STM32 • ESP32 • RISC-V
+- STM32 • FPGA • RISC-V
 - SPI • I²C • UART • CAN
 - Power electronics & low-power design
 - Sensors & custom boards
@@ -59,7 +59,7 @@ I enjoy working at the intersection of:
 ### Software & Systems
 - C / C++ • Python
 - Linux (embedded & server)
-- Docker • Kubernetes (CKA path)
+- Docker
 - Git • CI-oriented workflows
 
 ---
@@ -68,7 +68,7 @@ I enjoy working at the intersection of:
 - 🔹 **SDR Ground Station Modules**
 - 🔹 **Embedded Sensor Nodes**
 - 🔹 **GSaaS Architecture Drafts**
-- 🔹 **Hands-on CKA Labs & Notes**
+- 🔹 **Hands-on Labs & Notes**
 
 *(Repositories focus on real engineering problems, not toy examples.)*
 
